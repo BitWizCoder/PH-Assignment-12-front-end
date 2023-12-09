@@ -7,11 +7,10 @@ const HeroSection = () => {
       <Grid container spacing={12}>
         <Grid item xs={12} md={6}>
           <Typography variant="h3" sx={{ mb: 2 }}>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+          Real estate platform for buying and selling properties all over the world, offering affordable prices.
           </Typography>
           <Typography variant="h5">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum
-            quos repellendus tempore praesentium qui inventore!
+          Connecting Buyers and Sellers Worldwide: Your Destination for Affordable Real Estate Solutions
           </Typography>
           <Button sx={{ mt: 3 }} variant="contained">
             Sign Up
